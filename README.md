@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dfb5dcad-545a-435f-ad00-a021e5efaaa2" /># FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -48,8 +48,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![1st rtl viewer EXP 4](https://github.com/user-attachments/assets/0e9b2ca3-d83d-42ab-a371-a216ee61728c)
+![2nd rtl viewer EXP 4](https://github.com/user-attachments/assets/cc76fcb3-ace1-4870-9754-0015a915599b)
 
 **Output Timing Waveform**
+![1st state diagram EXP 4](https://github.com/user-attachments/assets/0899b9be-f265-4a4c-94f3-9c1ba68e5c48)
+![2nd state diagram EXP 4](https://github.com/user-attachments/assets/4795247c-ba55-4d60-8925-849d387fee2b)
 
 **Result:**
 
